@@ -229,12 +229,6 @@ Ransom note / FQDN displayed to victim
 
 ---
 
-## 📚 References
-
-- [BOTS v1 Dataset - Splunk](https://github.com/splunk/botsv1)
-- [MITRE ATT&CK - T1566 Phishing via Removable Media](https://attack.mitre.org/techniques/T1091/)
-- [MITRE ATT&CK - T1027 Obfuscated Files](https://attack.mitre.org/techniques/T1027/)
-- [Cerber Ransomware Analysis - Trend Micro](https://www.trendmicro.com)
 
 ---
 
